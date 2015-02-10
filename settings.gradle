@@ -1,0 +1,3 @@
+rootProject.name = "mucoo"
+
+include 'core','shire','webs'
