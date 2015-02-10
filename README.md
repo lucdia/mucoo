@@ -6,5 +6,5 @@ Mucoo基于Gradle项目管理工具
 项目结构初始化：
 > * gradle idea(eclipse)
 > * gradle wrapper
-* > gradle createJavaProject
-* > gradle createWebProject
+> * gradle createJavaProject
+> * gradle createWebProject
